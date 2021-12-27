@@ -1,0 +1,23 @@
+{
+  "name": "fin_sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luca-Terrazzan/fin-sim.git"
+  },
+  "author": "Luca Terrazzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luca-Terrazzan/fin-sim/issues"
+  },
+  "homepage": "https://github.com/Luca-Terrazzan/fin-sim#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "typescript": "^4.5.4"
+  }
+}
